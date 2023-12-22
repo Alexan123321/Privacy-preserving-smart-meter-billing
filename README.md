@@ -15,6 +15,11 @@ system’s practical applicability. In summary, the key contribution of this stu
 
 For further information, including references, please read the associated report. 
 
+## Dependencies
+Be advised, the EC ElGamal and the Bulletproof modules are dependent on the below two resources, respectively: 
+- **RELIC toolkit**: https://github.com/relic-toolkit/relic
+- **secp256k1-zkp**: https://github.com/apoelstra/secp256k1-zkp/tree/bulletproofs
+
 ## License
 This project is licensed under the terms of the MIT license.
 
